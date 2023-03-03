@@ -1,1 +1,1 @@
-Readme for alx-pre-course rep
+Readme for alx-pre-course repo
